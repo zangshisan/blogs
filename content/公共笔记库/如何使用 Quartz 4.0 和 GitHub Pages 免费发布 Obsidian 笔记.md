@@ -64,9 +64,9 @@ npx quartz sync --no-pull  # 将对本地仓库所做的更改推送到远程仓
 
 - 在 Obsidian 中将 quartz 里的 content 文件夹作为 Obsidian 库打开，然后就可以按照以往习惯写文档
 - index.md 是网站首页不要删除（不能删，名称也不能改，要不然会没有样式，显示XML页面）
-
-`npx quartz sync  # 每次更改后记得更新推送到远程仓库上`
-
+```
+npx quartz sync  # 每次更改后记得更新推送到远程仓库上
+```
 
 ##### 步骤 4. 在线托管您的保管库
 
@@ -125,18 +125,16 @@ jobs:
 - 点击右侧菜单Pages>Source 下拉菜单，选择 GitHub Actions
 - 最后提交更改，网站将部署到 `<github-username>.github.io/<repository-name>
 
-`npx quartz sync# 每次更改后记得更新推送到远程仓库上`
+```
+npx quartz sync# 每次更改后记得更新推送到远程仓库上
 
+```
 
 > [!NOTE] ：说明：
 > 笔记参考： [如何使用 Quartz 4.0 和 GitHub Pages 免费发布 Obsidian 笔记]( https://insile.github.io/my-notes/%E7%AC%94%E8%AE%B0/%E5%85%AC%E5%85%B1%E7%AC%94%E8%AE%B0%E5%BA%93/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8-Quartz-4.0-%E5%92%8C-GitHub-Pages-%E5%85%8D%E8%B4%B9%E5%8F%91%E5%B8%83-Obsidian-%E7%AC%94%E8%AE%B0)
 > 只是在这篇文章稍加注释，因为遇到了些许坑。本文章修改原文部分内容。
 > 
 > 相关Obsidian文章参考：
-> [推荐一款强大的笔记管理软件：Obsidian](https://zhuanlan.zhihu.com/p/668713110)
-> [Obsidian快速上手指南-免费的markdown双链笔记软件](https://zhuanlan.zhihu.com/p/682396800)
-> [Obsidian中有哪些好用的插件值得推荐？](https://www.zhihu.com/question/497487995/answer/3445481654)
-
-
-
-
+> - [推荐一款强大的笔记管理软件：Obsidian](https://zhuanlan.zhihu.com/p/668713110)
+>  - [Obsidian快速上手指南-免费的markdown双链笔记软件](https://zhuanlan.zhihu.com/p/682396800)
+>  - [Obsidian中有哪些好用的插件值得推荐？](https://www.zhihu.com/question/497487995/answer/3445481654)

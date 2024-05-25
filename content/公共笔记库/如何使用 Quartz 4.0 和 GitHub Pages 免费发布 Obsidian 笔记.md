@@ -138,3 +138,4 @@ npx quartz sync# 每次更改后记得更新推送到远程仓库上
 > - [推荐一款强大的笔记管理软件：Obsidian](https://zhuanlan.zhihu.com/p/668713110)
 >  - [Obsidian快速上手指南-免费的markdown双链笔记软件](https://zhuanlan.zhihu.com/p/682396800)
 >  - [Obsidian中有哪些好用的插件值得推荐？](https://www.zhihu.com/question/497487995/answer/3445481654)
+>  - 

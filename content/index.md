@@ -1,12 +1,7 @@
 ---
-title: ZSS blog's
-describe: 知识体系库
-tags:
-  - 前端
-  - 后端
-  - 数据库
-  - 虚拟化
+title: zss blog
 ---
+
 ## [[说明]]
 - [[复盘]]
 - [[营养学]]

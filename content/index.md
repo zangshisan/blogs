@@ -6,6 +6,7 @@ title: zss blog
 - [[复盘]]
 - [[营养学]]
 - [[阅读清单]]
+- [[面经及相关概念的自我理解]]
 
 <script src="https://giscus.app/client.js"
         data-repo="insile/my-notes"
